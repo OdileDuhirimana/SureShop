@@ -150,17 +150,8 @@ Sureshop is a fully functional e-commerce backend API built with Java, Spring Bo
 *   **Docker:**  A `Dockerfile` is provided to containerize the application.
     *   Build the Docker image:  `docker build -t sureshop-backend .`
     *   Run the Docker container: `docker run -p 8081:8081 sureshop-backend`
-*   **Deployment Platforms:**
-    *   Deploy to Railway or Render (or your preferred cloud platform).
-
-## Contributing
-
-[Instructions on how to contribute to the project, if applicable.]  (e.g., Fork the repository, create a branch, make your changes, and submit a pull request.)
 
 ## License
 
-[Your License - e.g., MIT, Apache 2.0]
+MIT
 
-## Contact
-
-[Your contact information, e.g., your email address, your GitHub profile]
