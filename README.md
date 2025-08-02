@@ -6,12 +6,12 @@ Sureshop is a fully functional e-commerce backend API built with Java, Spring Bo
 
 ## Technologies Used
 
-*   **Java:**  [Your Java Version, e.g., Java 21]
-*   **Spring Boot:**  [Your Spring Boot Version, e.g., 3.5.4]
+*   **Java:**  Java 21
+*   **Spring Boot:**  3.5.4
 *   **Spring Data JPA**
 *   **Spring Security:**  For authentication and authorization.
 *   **JWT (JSON Web Tokens):**  For secure user authentication.
-*   **PostgreSQL** OR **MySQL:** [Specify which database you are using]
+*   **MySQL:** For storinf data
 *   **Swagger/OpenAPI:**  For API documentation.
 *   **JUnit & Mockito:**  For testing.
 *   **Stripe API (Simulation):**  For payment processing (simulated).
@@ -48,10 +48,9 @@ Sureshop is a fully functional e-commerce backend API built with Java, Spring Bo
 
 ## Prerequisites
 
-*   **Java Development Kit (JDK):** [Your Java Version]
-*   **Maven:**  [Your Maven Version, e.g., 3.8.6] (Make sure it's in your system's PATH)
-*   **PostgreSQL** OR **MySQL:** [Specify which database you are using]  (and a running database instance)
-*   **A code editor or IDE:**  (e.g., IntelliJ IDEA, Eclipse, VS Code)
+*   **Java Development Kit (JDK):** Java 21
+*   **Maven:** 3.8.6
+*  **MySQL:** sureshop
 
 ## Setup and Installation
 
