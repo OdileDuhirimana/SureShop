@@ -2,7 +2,7 @@
 
 ## Overview
 
-Sureshop is a fully functional e-commerce backend API built with Java, Spring Boot, and PostgreSQL (or MySQL - depending on your choice). It provides a robust set of features to manage products, users, shopping carts, orders, and payments.  This README provides information on how to set up, run, and test the API.
+Sureshop is a fully functional e-commerce backend API built with Java, Spring Boot, and MySQL. It provides a robust set of features to manage products, users, shopping carts, orders, and payments.  This README provides information on how to set up, run, and test the API.
 
 ## Technologies Used
 
