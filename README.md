@@ -56,7 +56,7 @@ Sureshop is a fully functional e-commerce backend API built with Java, Spring Bo
 
 1.  **Clone the repository:**
     ```bash
-    git clone [Your Repository URL]
+    git clone https://github.com/OdileDuhirimana/SureShop.git
     cd sure_shop_backend
     ```
 
